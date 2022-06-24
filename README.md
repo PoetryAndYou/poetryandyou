@@ -1,8 +1,7 @@
 ### Hi there 👋
-### 这人是真的懒>
+### 这人是真的懒💬
 
 > lalalala
-
 <!--
 **PoetryAndYou/poetryandyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
